@@ -1,6 +1,7 @@
 # Nextrader - Free AI-Powered Trading Signals for Deriv Bot & Meta Trader
 
-![Nextrader Banner](images/nextrader-banner.png)
+<img width="1658" height="803" alt="Screenshot 2025-11-05 154318" src="https://github.com/user-attachments/assets/def01ece-c2ab-42f6-a62d-cafba66ec9e5" />
+
 
 ## 🚀 Introduction
 
@@ -43,7 +44,7 @@ Join over **3+ million traders worldwide** who trust Nextrader for automated tra
 
 ### Step 1: Create Your Free Account
 
-![Sign Up Page](images/signup-page.png)
+
 
 1. Visit **https://nextrader.live/**
 2. Click on **"Create Free Account"** or **"Get Started"** button
@@ -58,7 +59,7 @@ Join over **3+ million traders worldwide** who trust Nextrader for automated tra
 
 ### Step 2: Choose Your Trading Platform
 
-![Platform Selection](images/platform-selection.png)
+
 
 Nextrader signals are compatible with multiple platforms:
 
@@ -78,7 +79,7 @@ Nextrader signals are compatible with multiple platforms:
 
 ### Step 3: Select Your Trading Timeframe
 
-![Timeframe Selection](images/timeframe-selection.png)
+
 
 Choose the timeframe that matches your trading strategy:
 
@@ -93,7 +94,7 @@ Choose the timeframe that matches your trading strategy:
 
 ### Step 4: Configure Your Deriv Bot Settings
 
-![Deriv Bot Configuration](images/deriv-bot-config.png)
+
 
 #### Setting Up Your Deriv Bot:
 1. **Access Bot Builder** in your Deriv account
@@ -113,7 +114,8 @@ Choose the timeframe that matches your trading strategy:
 
 ### Step 5: Monitor Real-Time Signals
 
-![Signal Dashboard](images/signal-dashboard.png)
+<img width="707" height="1173" alt="Screenshot 2025-09-25 110810" src="https://github.com/user-attachments/assets/adc8b989-628f-42b2-bd3e-dcc48983dde7" />
+
 
 #### Understanding Your Signal Dashboard:
 - **Signal Strength** - Indicated by color coding (Green = Strong Buy, Red = Strong Sell)
@@ -129,7 +131,7 @@ Choose the timeframe that matches your trading strategy:
 
 ### Step 6: Set Up Notifications
 
-![Notification Settings](images/notification-settings.png)
+
 
 Stay updated with instant alerts:
 
@@ -143,7 +145,7 @@ Stay updated with instant alerts:
 
 ### Step 7: Track Your Performance
 
-![Performance Analytics](images/performance-tracking.png)
+
 
 Monitor your trading success:
 
@@ -183,7 +185,8 @@ Best for **4-hour timeframe**:
 
 ## 📱 Mobile Trading
 
-![Mobile App](images/mobile-app.png)
+<img width="1350" height="1080" alt="details-5" src="https://github.com/user-attachments/assets/c4e33cfc-3c78-49f7-a4b0-e029d5787610" />
+
 
 Access Nextrader signals on the go:
 - **Responsive Design** - Works on all devices
